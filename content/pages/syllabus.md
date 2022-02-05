@@ -47,12 +47,57 @@ Grading
 
 Your performance in this class will be evaluated based on homework assignments, a final project, and class participation. Your grade will be decided using the following weights:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 20 |
-| Referee reports | 20 |
-| Final project | 35 |
-| Class participation | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Referee reports
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem sets will be curved individually and weighted equally, and we will drop your lowest problem set score before calculating this portion of your grade. For the referee reports, you will be given credit for submitting a satisfactory report (pass/fail), and you may choose not to submit up to two reports. The final project and class participation grades will both be normalized and curved prior to being included in your grade. We expect most folks who complete the assignments and project to earn an A or a B in the class, and we'll provide you with ample warning and support if we think you are at risk of getting a lower grade.
 
