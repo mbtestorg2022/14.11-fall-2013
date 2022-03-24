@@ -28,7 +28,7 @@ Cameron, Elissa Z., and Frederik Dalerum. "[A Trivers–Willard Effect in Contem
 
 Herre, Edward Allen. "[Optimality, Plasticity and Selective Regime in Fig Wasp Sex Ratios](http://dx.doi.org/10.1038/329627a0)." _Nature_ 329 (1987): 627–29.
 
-Osborne, Martin J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Darwin, Fisher, and a Theory of the Evolution of the Sex Ratio." (PDF)](https://www.economics.utoronto.ca/osborne/research/sexratio.pdf) Department of Economics, McMaster University, December 1996.
+Osborne, Martin J. "[Darwin, Fisher, and a Theory of the Evolution of the Sex Ratio." (PDF)](https://www.economics.utoronto.ca/osborne/research/sexratio.pdf) Department of Economics, McMaster University, December 1996.
 
 Smith, J. Maynard., and G. R. Price. "[The Logic of Animal Conflict](http://dx.doi.org/10.1038/246015a0)." _Nature_ 246. (1973): 15–8.
 
@@ -38,7 +38,7 @@ Trivers, Robert L., and H. Hare. "[Haploidploidy and the Evolution of the Social
 
 Trivers, Robert L., and Dan E. Willard. "[Natural Selection of Parental Ability to Vary the Sex Ration of Offspring](http://dx.doi.org/10.1126/science.179.4068.90)." _Science_ 179, no. 4068 (1973): 90–2.
 
-United Nations Statistics Division. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Table 10." (PDF)](http://unstats.un.org/unsd/demographic/products/dyb/DYB2004/Table10.pdf) _Demographic Yearbook_. 2004.
+United Nations Statistics Division. ["Table 10." (PDF)](http://unstats.un.org/unsd/demographic/products/dyb/DYB2004/Table10.pdf) _Demographic Yearbook_. 2004.
 
 
 {{< tdclose >}}
@@ -76,7 +76,7 @@ Hawk–Dove and rights
 
 Kummer, H., W. Götz, et al. "[Triadic Differentiation: An Inhibitory Process Protecting Pair Bonds in Baboons](http://www.jstor.org/stable/4533582)." _Behaviour_ 49, no. 1 (1974): 62–87.
 
-Gintis, Herbert. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Evolution of Private Property." (PDF)](http://www.umass.edu/preferen/gintis/Evolution%20of%20Private%20Property.pdf) 2006.
+Gintis, Herbert. "[The Evolution of Private Property." (PDF)](http://www.umass.edu/preferen/gintis/Evolution%20of%20Private%20Property.pdf) 2006.
 
 Davies, N. B. "[Territorial Defence in the Speckled Wood Butterfly (Parage Aegeria): The Resident Always Wins](http://dx.doi.org/10.1016/0003-3472(78)90013-1)." _Animal Behavior_ 26 (1978): 138–47.
 
@@ -142,7 +142,7 @@ Newman, George E., and Paul Bloom. "[Art and Authenticity: The Importance of Ori
 
 Sosis, Richard, Howard C. Kress, et al. "[Scars for War: Evaluating Alternative Signaling Explanations for Cross–Cultural Variance in Ritual Costs](http://dx.doi.org/10.1016/j.evolhumbehav.2007.02.007)." _Evolution and Human Behavior_ 28, no. 4 (2007): 234–47.
 
-Sosis, Richard. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Why Aren't We All Hutterites? Costly Signaling Theory and Religious Behavior." (PDF)](https://link.springer.com/content/pdf/10.1007%2Fs12110-003-1000-6.pdf) _Human Nature_ 14, no. 2 (2003): 91–127.
+Sosis, Richard. ["Why Aren't We All Hutterites? Costly Signaling Theory and Religious Behavior." (PDF)](https://link.springer.com/content/pdf/10.1007%2Fs12110-003-1000-6.pdf) _Human Nature_ 14, no. 2 (2003): 91–127.
 
 
 {{< tdclose >}}
@@ -173,9 +173,9 @@ Wilkinson, Gerald S. "[Reciprocal Food Sharing in the Vampire Bat](http://dx.doi
 
 Karlan, Dean, and John A. List. "[Does Price Matter in Charitable Giving? Evidence from a Large–Scale Natural Field Experiment](http://dx.doi.org/10.1257/aer.97.5.1774)." _American Economic Review_ 97, no. 5 (2007): 1774–93.
 
-Desvousges, William H., F. Reed Johnson, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Measuring Nonuse Damages Using Contingent Valuation: An Experimental Evaluation of Accuracy." (PDF – 3.0MB)](http://www.rti.org/pubs/bk-0001-1009_web.pdf) Research Triangle Institute, 2010.
+Desvousges, William H., F. Reed Johnson, et al. "[Measuring Nonuse Damages Using Contingent Valuation: An Experimental Evaluation of Accuracy." (PDF – 3.0MB)](http://www.rti.org/pubs/bk-0001-1009_web.pdf) Research Triangle Institute, 2010.
 
-Axelrod, Robert. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Evolving New Strategies: The Evolution of Strategies in the Iterated Prisoners' Dilemma." (PDF)](http://www-personal.umich.edu/~axe/research/Evolving.pdf) 2001.
+Axelrod, Robert. ["Evolving New Strategies: The Evolution of Strategies in the Iterated Prisoners' Dilemma." (PDF)](http://www-personal.umich.edu/~axe/research/Evolving.pdf) 2001.
 
 
 {{< tdclose >}}
@@ -188,7 +188,7 @@ Cooperating Without Looking
 {{< tdopen >}}
 
 
-Hoffman, Moshe. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Cooperating Without Looking." (PDF)](http://www.economics.huji.ac.il/Uploads/Contents/documents/Moshe_Hoffman.pdf) 2013.
+Hoffman, Moshe. "[Cooperating Without Looking." (PDF)](http://www.economics.huji.ac.il/Uploads/Contents/documents/Moshe_Hoffman.pdf) 2013.
 
 Roth, Alvin E. "[Repugnance as a Constraint on Markets](http://dx.doi.org/10.1257/jep.21.3.37)." _Journal of Economic Perspectives_ 21, no. 3 (2007): 37–58.
 
